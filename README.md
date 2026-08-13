@@ -1,9 +1,9 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=soft&color=0:15e58b,100:e1e506&height=120&text=Jaewon`s%20Github&animation=scaleIn&fontColor=ffffff&fontSize=70" />
+    <img src="https://capsule-render.vercel.app/api?type=soft&color=0:02f21e,100:7fbd86&height=120&text=Jaewon%20An&animation=&fontColor=ffffff&fontSize=60" />
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Jaewon`s Profile </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> <li> 1995.07.19</li><li> Man</li><li> 환경공학과 전공</li><li> 데이터 사이언티스트를 꿈꾸는 사람 </div> 
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">  </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;">  </div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
@@ -23,3 +23,4 @@
     <div align= "center">  </div> 
     </div>
     
+
