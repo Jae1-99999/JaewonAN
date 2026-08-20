@@ -10,7 +10,7 @@
 > 문제 정의부터 데이터 수집, EDA, 시각화, 모델링까지의 과정을 기록하고 있습니다.
 
 ---
-## 🙋‍♂️ About Me
+## 🙋‍♂️ 자기소개
 
 | 구분 | 내용 |
 | :--- | :--- |
@@ -23,7 +23,7 @@
 | **Links** | [Notion](예정) |
 ---
 
-### 🛠 Tech Stack
+### 🛠 기술 스택
 
 #### Data Analysis & Science
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -40,7 +40,7 @@
 
 ---
 
-### 📌 Featured Data Portfolio
+### 📌 포트폴리오
 
 데이터 수집부터 분석, 시각화까지 진행한 대표 포트폴리오 목록입니다.
 
