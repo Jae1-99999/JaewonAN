@@ -1,6 +1,6 @@
 <!-- 상단 배너 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=200&section=header&text=Jaewon%20An&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Data%20Analyst&descAlignY=55" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=200&section=header&text=Jaewon%20An&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Data%20Scientist&descAlignY=55" />
 </p>
 
 <!-- 타이핑 애니메이션 -->
